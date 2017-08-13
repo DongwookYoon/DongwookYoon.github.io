@@ -7,7 +7,7 @@ layout: home
 
 <div id="about"></div>
 
-![Dongwook's headshot](https://s3.amazonaws.com/dwyoon.com/img/profile.jpg)
+![Dongwook's headshot](/files/profile.jpg)
 
 I am an Assistant Professor at the Department of Computer Science, University of British Columbia, and a member of [IMAGER](https://www.cs.ubc.ca/nest/imager){:target="_blank"}, [MAGIC](http://www.magic.ubc.ca/){:target="_blank"}, and [Design for People](http://apsc-hci.sites.olt.ubc.ca/){:target="_blank"}.
 
