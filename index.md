@@ -9,9 +9,9 @@ layout: home
 
 ![Dongwook's headshot](/files/profile.jpg)
 
-I am an Assistant Professor at the Department of Computer Science, University of British Columbia, and a member of [IMAGER](https://www.cs.ubc.ca/nest/imager){:target="_blank"}, [MAGIC](http://www.magic.ubc.ca/){:target="_blank"}, and [Design for People](http://apsc-hci.sites.olt.ubc.ca/){:target="_blank"}.
+I am an Assistant Professor at the Department of Computer Science, University of British Columbia, and a member of [IMAGER](https://www.cs.ubc.ca/nest/imager){:target="_blank"} and [Design for People](http://apsc-hci.sites.olt.ubc.ca/){:target="_blank"}.
 
-You can reach me at [yoon(at)cs.ubc.ca](#){:onclick="return false;"} or visit me at [X663, ICICS/CS](https://goo.gl/maps/imJwWLmVLev){:target="_blank"}. To schedule a meeting with me, please refer to [my free/busy calendar](/cal){:target="_blank"}. 
+You can reach me at [yoon(at)cs.ubc.ca](#){:onclick="return false;"} or visit me at [X663, ICICS/CS](https://goo.gl/maps/imJwWLmVLev){:target="_blank"}. To schedule a meeting with me, please refer to [my free/busy calendar](/cal){:target="_blank"}.
 
 My research lies at the intersection of human-computer interaction (HCI), computer-supported cooperative work (CSCW), computer-mediated communication (CMC), and educational technology. My primary research focus is to build **rich collaboration systems** that offer expressive multimodal interactions, i.e., interactions through multiple communication channels (e.g., speech, gesture, and grasp). My design approach translates natural human interactions into novel combinations of input modalities that serve as building blocks for fluid, rich, and lightweight interfaces. My evaluation approach deploys and evaluates high-fidelity systems in real world contexts (e.g., classrooms), from which we can obtain ecologically valid user data.
 
@@ -19,9 +19,9 @@ I received a Ph.D. in Information Science from Cornell University, and a M.S. in
 
 For further information, please look into my [curriculum vitae][link.cv]{:target="_blank"}, [research statement][link.rs]{:target="_blank"}, and [teaching statement][link.ts]{:target="_blank"}.
 
-[link.cv]: cv.pdf
-[link.rs]: rs.pdf
-[link.ts]: ts.pdf
+[link.cv]: files/cv.pdf
+[link.rs]: files/rs.pdf
+[link.ts]: files/ts.pdf
 
 
 # Teaching
@@ -29,7 +29,7 @@ For further information, please look into my [curriculum vitae][link.cv]{:target
 ## University of British Columbia
 
 CPSC 554D: Topics in Human-Computer Interaction -- Multimodal Interaction  
-[Term 2 2017 (Jan)](){:onclick="return false;"}
+[Term 2 2018 (Jan)](){:onclick="return false;"}
 
 ## Cornell University
 
@@ -69,7 +69,7 @@ UIST 2014 Full Paper · [Video](https://www.youtube.com/watch?v=twSTqxghHNQ){:ta
 *Dongwook Yoon*, Nicholas Chen, and François Guimbretière  
 UIST 2013 Short Paper · [Video](https://www.youtube.com/watch?v=LSkR5-Cq4Dc){:target="_blank"}
 
-[Mobiature: 3d model manipulation technique for large displays using mobile devices](/files/papers/icce2012-mobiature.pdf){:target="_blank"} 
+[Mobiature: 3d model manipulation technique for large displays using mobile devices](/files/papers/icce2012-mobiature.pdf){:target="_blank"}  
 *Dongwook Yoon*, Joong Ho Lee, Kiwon Yeom, and Ji-Hyung Park  
 ICCE 2011 Short Paper · [Video](https://www.youtube.com/watch?v=BSbDmBLxKzE){:target="_blank"}
 
@@ -78,11 +78,11 @@ ICCE 2011 Short Paper · [Video](https://www.youtube.com/watch?v=BSbDmBLxKzE){:t
 
 Interested in doing HCI research with me? UBC students at any level (B.S., M.S., Ph.D.) are welcomed to contact me for potential advising and collaboration. I also can serve as a committee member for students in other departments at UBC or in other schools. If you are looking for information about the graduate admission process at CS, please contact [our graduate program](https://www.cs.ubc.ca/students/grad/prospective){:target="_blank"}.
 
-The bare minimum requirement to pursue research experience with me is to understand the basic languages of HCI, software development, and statistics. No worries, it's OK not to be proficient at all the domains, but if you are inexperienced, please consider taking the introductory courses at UBC (e.g., [CPSC 344, 544](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/course-timetable){:target="_blank"}) or MOOCs. It will help you figure out what HCI is about and whether you really want to do HCI research.
+I would expect that you, as a potential research collaborator, can understand the basic languages of HCI, software development, and statistics. No worries. It's OK not to be proficient at all the domains, but if you are inexperienced, please consider taking the introductory courses at UBC (e.g., [CPSC 344, 544](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/course-timetable){:target="_blank"}) or MOOCs. It will help you figure out what HCI is about and whether you really want to do HCI research.
 
 If you do contact me, please make sure to clarify the following three points.
 * First, who you are. I want to know which year and program you are in and what kind of skill set you have. If you want me as a committee member, please indicate your supervisor. Attaching your CV, resume, or portfolio is the easiest way to go. 
 * Second, what you need. Are you looking for an advisor, a committee member, a funded RAship, or just research experience? Please be up front about what you want to get out from the meeting. If needs be, please share your academic timeline.
-* Thrid, your research interest. What do you want to study and why do you think I might be a good person to work with? To answer these, you would need to watch the videos of my projects, and then read the papers that you consider particularly interesting. If you have solid research ideas, please describe them with brevity. If you don't have a clear idea, it's fine. Please state your area of interest instead. Then I might suggest you a research question or invite you to work on an on-going project.
+* Thrid, your research interest. What do you want to study and why do you think I might be a good person to work with? To answer these, you would need to watch the videos of my projects, and then read the papers that you consider particularly interesting. If you have solid research ideas, please describe them with brevity. If you don't have a clear idea, it's fine. Please state your area of interest instead, then I might suggest you a research question or invite you to work on an on-going project.
 
-If you have reached at this line, you are perhaps genuinely interested in working with me. I invite you to send me an email to ask for a meeting. If we luck out, we will work together to design, build, and test cool new interactive systems. If you have self-motivation and passion for quality research, I will find resources to support your work, and give you feedback to advance your practice. 
+If you have reached at this line, you are perhaps genuinely interested in working with me. I invite you to send me an email to ask for a meeting. You can look up [my free/busy schedule](/cal){:target="_blank"} to find a time slot that will work for both of us. If we luck out, we will work together to design, build, and test cool new interactive systems. If you have self-motivation, commitment, and passion for quality research, I will find resources to support your work and give you feedback to advance your practice.
