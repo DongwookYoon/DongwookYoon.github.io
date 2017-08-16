@@ -39,6 +39,58 @@ CS 1110: Introduction to Computing Using Python (w/ Lillian Lee, Steve Marschner
 [Fall 2014](https://www.cs.cornell.edu/courses/cs1110/2014fa/){:target="_blank"} 
 
 
+# Projects
+
+## RichReview `CSCW 2016, UIST 2014`
+{:class="project-title"}
+
+[![RichReview thumbnail](/files/thumbs/richreview.jpg)](https://youtu.be/twSTqxghHNQ){:target="_blank"} | A multi-modal annotation system supports rich collaboration through voice + gesture expressions.
+{:class="project-item"}
+
+
+## SimpleSpeech `CHI 2016`
+{:class="project-title"}
+
+[![SimpleSpeech thumbnail](/files/thumbs/simplespeech.jpg)](https://youtu.be/BoUpUY3scvk){:target="_blank"} | A transcription-based voice editing system reduces workloads in speech commenting.
+{:class="project-item"}
+
+
+## Grasp + Micro-mobility `UIST 2015`
+{:class="project-title"}
+
+[![Grasp Tablet thumbnail](/files/thumbs/grasptablet.jpg)](https://youtu.be/mTSfoh-M88w){:target="_blank"} | Employing capacitive grip sensing and inertial motion can capture contexts of collaborative interactions.
+{:class="project-item"}
+
+
+## TextTearing `UIST 2013`
+{:class="project-title"}
+
+[![TextTearing thumbnail](/files/thumbs/texttearing.jpg)](https://youtu.be/LSkR5-Cq4Dc){:target="_blank"} | A pen + touch gesture expands writing space in a fluid document layout.
+{:class="project-item"}
+
+
+## TouchBookmark `CHI WIP 2013`
+{:class="project-title"}
+
+[![TouchBookmark thumbnail](/files/thumbs/touchbookmark.jpg)](https://youtu.be/_4nII6Ah0Cg){:target="_blank"} | A multi-touch gesture supports nonlinear page navigation through a set of lightweight bookmarking interactions.
+{:class="project-item"}
+
+
+## Mobiature `ICCE 2012`
+{:class="project-title"}
+
+[![Mobiature thumbnail](/files/thumbs/mobiature.jpg)](https://youtu.be/BSbDmBLxKzE){:target="_blank"} | Using the smartphone as a 3D controller supports direct manipulation of an on-screen virtual object.
+{:class="project-item"}
+
+
+## PhantomBook `US Patent #8878875`
+{:class="project-title"}
+
+[![PhantomBook thumbnail](/files/thumbs/phantombook.jpg)](https://youtu.be/4KY40gAmeqA){:target="_blank"} | An augmented reality e-book interaction technique supports tangible interactions for page navigation.
+{:class="project-item"}
+
+
+
 # Refereed Publications
 
 [Facilitating Complex Referencing of Visual Materials in Asynchronous Discussion Interface](/#){:onclick="return false;"}  
