@@ -28,7 +28,7 @@ For further information, please look into my [curriculum vitae][link.cv]{:target
 
 ## University of British Columbia
 
-CPSC 554D: Topics in Human-Computer Interaction -- Multimodal Interaction  
+CPSC 554Y: Topics in Human-Computer Interaction -- Multimodal Interaction  
 [Term 2 2018 (Jan)](){:onclick="return false;"}
 
 ## Cornell University
