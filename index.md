@@ -9,13 +9,7 @@ layout: home
 
 ![Dongwook's headshot](/files/profile.jpg)
 
-I am an Assistant Professor at the Department of Computer Science, University of British Columbia, and a member of [IMAGER](https://www.cs.ubc.ca/nest/imager){:target="_blank"} and [Design for People](http://apsc-hci.sites.olt.ubc.ca/){:target="_blank"}.
-
-You can reach me at [yoon(at)cs.ubc.ca](#){:onclick="return false;"} or visit me at [X663, ICICS/CS](https://goo.gl/maps/imJwWLmVLev){:target="_blank"}. To schedule a meeting with me, please refer to [my free/busy calendar](/cal){:target="_blank"}.
-
-My research lies at the intersection of human-computer interaction (HCI), computer-supported cooperative work (CSCW), computer-mediated communication (CMC), and educational technology. My primary research focus is to build **rich collaboration systems** that offer expressive multimodal interactions, i.e., interactions through multiple communication channels (e.g., speech, gesture, and grasp). My design approach translates natural human interactions into novel combinations of input modalities that serve as building blocks for fluid, rich, and lightweight interfaces. My evaluation approach deploys and evaluates high-fidelity systems in real world contexts (e.g., classrooms), from which we can obtain ecologically valid user data.
-
-I received a Ph.D. in Information Science from Cornell University, and a M.S. in Computer Graphics and a B.S. in Electrical Engineering from Seoul National University.
+Dongwook Yoon is an Assistant Professor at the Department of Computer Science, University of British Columbia, and a member of [IMAGER](https://www.cs.ubc.ca/nest/imager){:target="_blank"} and [Design for People](http://apsc-hci.sites.olt.ubc.ca/){:target="_blank"}. His research lies at the intersection of human-computer interaction (HCI), computer-supported cooperative work (CSCW), computer-mediated communication (CMC), and educational technology. He focuses on building **rich collaboration systems** that offer expressive multimodal interactions, i.e., interactions through multiple communication channels (e.g., speech, gesture, and grasp). His design approach translates natural human interactions into novel combinations of input modalities that serve as building blocks for fluid, rich, and lightweight interfaces. He deploys and evaluates high-fidelity systems in real world contexts (e.g., classrooms), from which we can obtain ecologically valid user data.
 
 For further information, please look into my [curriculum vitae][link.cv]{:target="_blank"}, [research statement][link.rs]{:target="_blank"}, and [teaching statement][link.ts]{:target="_blank"}.
 
