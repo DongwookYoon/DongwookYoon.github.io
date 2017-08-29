@@ -19,10 +19,10 @@
         </label>
 
         <div class="trigger">
+          <a class="page-link" href="/#working-with-me">Working with me</a>
           <a class="page-link" href="/#teaching">Teaching</a>
           <a class="page-link" href="/#projects">Projects</a>
           <a class="page-link" href="/#refereed-publications">Publications</a>
-          <a class="page-link" href="/#working-with-me">Working with me</a>
           {% for path in page_paths %}
             {% assign my_page = site.pages | where: "path", path | first %}
             {% if my_page.title %}
