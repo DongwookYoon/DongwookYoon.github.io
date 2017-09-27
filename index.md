@@ -11,11 +11,10 @@ layout: home
 
 Dongwook Yoon is an Assistant Professor at the Department of Computer Science, University of British Columbia, and a member of [IMAGER](https://www.cs.ubc.ca/nest/imager){:target="_blank"} and [Design for People](http://apsc-hci.sites.olt.ubc.ca/){:target="_blank"}. His research lies at the intersection of human-computer interaction (HCI), computer-supported cooperative work (CSCW), computer-mediated communication (CMC), and educational technology. He focuses on building **rich collaboration systems** that offer expressive multimodal interactions, i.e., interactions through multiple communication channels (e.g., speech, gesture, and grasp). His design approach translates natural human interactions into novel combinations of input modalities that serve as building blocks for fluid, rich, and lightweight interfaces. He deploys and evaluates high-fidelity systems in real world contexts (e.g., classrooms), from which we can obtain ecologically valid user data.
 
-For further information, please look into my [curriculum vitæ][link.cv]{:target="_blank"}, [research statement][link.rs]{:target="_blank"}, and [teaching statement][link.ts]{:target="_blank"}.
+For further information, please look into my [curriculum vitæ][link.cv]{:target="_blank"} and [research statement][link.rs]{:target="_blank"}.
 
 [link.cv]: files/cv.pdf
 [link.rs]: files/rs.pdf
-[link.ts]: files/ts.pdf
 
 
 # Working with me
