@@ -9,7 +9,7 @@ layout: home
 
 ![Dongwook's headshot](/files/profile.jpg)
 
-Dongwook Yoon is an Assistant Professor at the Department of Computer Science, University of British Columbia, and a member of [IMAGER](https://www.cs.ubc.ca/nest/imager){:target="_blank"} and [Design for People](http://apsc-hci.sites.olt.ubc.ca/){:target="_blank"}. His research lies at the intersection of human-computer interaction (HCI), computer-supported cooperative work (CSCW), computer-mediated communication (CMC), and educational technology. He focuses on building **rich collaboration systems** that offer expressive multimodal interactions, i.e., interactions through multiple communication channels (e.g., speech, gesture, and grasp). His design approach translates natural human interactions into novel combinations of input modalities that serve as building blocks for fluid, rich, and lightweight interfaces. He deploys and evaluates high-fidelity systems in real world contexts (e.g., classrooms), from which we can obtain ecologically valid user data.
+Dongwook Yoon is an Assistant Professor at the Department of Computer Science, University of British Columbia, and a member of [IMAGER](https://www.cs.ubc.ca/nest/imager){:target="_blank"} and [Design for People](http://dfp.psico.ca/){:target="_blank"}. His research lies at the intersection of human-computer interaction (HCI), computer-supported cooperative work (CSCW), computer-mediated communication (CMC), augmented and virtual reality, and educational technology. He focuses on building **rich collaboration systems** that offer expressive multimodal interactions, i.e., interactions through multiple communication channels (e.g., speech, gesture, and grasp). His design approach translates natural human interactions into novel combinations of input modalities that serve as building blocks for fluid, rich, and lightweight interfaces. He deploys and evaluates high-fidelity systems in real world contexts (e.g., classrooms), from which we can obtain ecologically valid user data.
 
 For further information, please look into my [curriculum vitæ][link.cv]{:target="_blank"} and [research statement][link.rs]{:target="_blank"}.
 
@@ -19,7 +19,9 @@ For further information, please look into my [curriculum vitæ][link.cv]{:target
 
 # Working with me
 
-Interested in doing HCI research with me? UBC students at any level (B.S., M.S., Ph.D.) are welcomed to contact me for potential advising and collaboration. I also can serve as a committee member for students in other departments at UBC or in other schools. If you are looking for information about the graduate admission process at CS, please contact [our graduate program](https://www.cs.ubc.ca/students/grad/prospective){:target="_blank"}.
+I have openings for 2 graduate students starting in Fall 2018. If you are interested in *Multimodal Interaction, Educational Technology, and Virtual / Augmented Reality*, please apply! For information about the admission process at CS, please consult [the graduate admission page](https://www.cs.ubc.ca/students/grad/prospective){:target="_blank"}.
+
+UBC students at any level (B.S., M.S., Ph.D.) are welcomed to contact me for potential advising and collaboration. I also can serve as a committee member for students in other departments at UBC or in other schools.   
 
 I would expect that you, as a potential research collaborator, can understand the basic languages of HCI, software development, and statistics. No worries. It's OK not to be proficient at all the domains, but if you are inexperienced, please consider taking the introductory courses at UBC (e.g., [CPSC 344, 544](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/course-timetable){:target="_blank"}) or MOOCs. It will help you figure out what HCI is about and whether you really want to do HCI research.
 
