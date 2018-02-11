@@ -25,7 +25,7 @@ UBC students at any level (B.S., M.S., Ph.D.) are welcomed to contact me for pot
 I would expect that you, as a potential research collaborator, can understand the basic languages of HCI, software development, and statistics. No worries. It's OK not to be proficient at all the domains, but if you are inexperienced, please consider taking the introductory courses at UBC (e.g., [CPSC 344, 544](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/course-timetable){:target="_blank"}) or MOOCs. It will help you figure out what HCI is about and whether you really want to do HCI research.
 
 If you do contact me, please make sure to clarify the following three points.
-* First, who you are. I want to know which year and program you are in and what kind of skill set you have. If you want me as a committee member, please indicate your supervisor. Attaching your CV, resume, or portfolio is the easiest way to go. 
+* First, who you are. I want to know which year and program you are in and what kind of skill set you have. If you want me as a committee member, please indicate your supervisor. Attaching your transcript, CV/resume, or portfolio is the easiest way to go. 
 * Second, what you need. Are you looking for an advisor, a committee member, a funded RAship, or just research experience? Please be up front about what you want to get out from the meeting. If needs be, please share your academic timeline.
 * Third, your research interest. What do you want to study and why do you think I might be a good person to work with? To answer these, you would need to watch the videos of my projects, and then read the papers that you consider particularly interesting. It'd be great if you can propose a solid research idea. If you don't have a clear idea, it's fine. Please state your area of interest instead, then I might suggest you a research question or invite you to work on an on-going project.
 
@@ -91,10 +91,10 @@ CS 1110: Introduction to Computing Using Python (w/ Lillian Lee, Steve Marschner
 {:class="project-item"}
 
 
-## PhantomBook `US Patent #8878875`
+## PhantomBook `US Patent US9250443B2`
 {:class="project-title"}
 
-[![PhantomBook thumbnail](/files/thumbs/phantombook.jpg)](https://youtu.be/4KY40gAmeqA){:target="_blank"} | An augmented reality e-book interaction technique supports tangible interactions for page navigation.
+[![PhantomBook thumbnail](/files/thumbs/phantombook.jpg)](https://youtu.be/4KY40gAmeqA){:target="_blank"} | An augmented reality e-book interaction technique supports tangible interactions for page navigation. The patent was acquired by Samsung on Nov 28, 2017 at $230k. 
 {:class="project-item"}
 
 
