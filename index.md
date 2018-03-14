@@ -13,41 +13,14 @@ Dongwook Yoon is an Assistant Professor at the Department of Computer Science, U
 
 For further information about me, please look into my [curriculum vitæ](files/cv.pdf){:target="_blank"} and [research statement](files/rs.pdf){:target="_blank"}.
 
-
-# Working with me
-
-I have openings for two graduate students to join my lab at MSc or PhD level for the 2018/19 academic year. If you are interested in *Multimodal Interaction, Educational Technology, and Virtual / Augmented Reality*, please apply!
-
-UBC students at any level (B.S., M.S., Ph.D.) are welcomed to contact me for potential advising and collaboration. Two graduate research assistantship or undergraduate research internship positions are currently available in my lab. Here is a detailed description about the ongoing projects:
-- [Ongoing research projects](https://docs.google.com/document/d/1iRUvK5wGmIZY7ZKeWg-XWW3P1w1qF5rfMQhnbw2IQ7Y){:target="_blank"}
-   
-
-I would expect that you, as a potential research collaborator, can understand the basic languages of HCI, software development, and statistics. No worries. It's OK not to be proficient at all the domains, but if you are inexperienced, please consider taking the introductory courses at UBC (e.g., [CPSC 344, 544](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/course-timetable){:target="_blank"}) or MOOCs. It will help you figure out what HCI is about and whether you really want to do HCI research.
-
-If you do contact me, please make sure to clarify the following three points.
-* First, who you are. I want to know which year and program you are in and what kind of skill set you have. If you want me as a committee member, please indicate your supervisor. Attaching your transcript, CV/resume, or portfolio is the easiest way to go. 
-* Second, what you need. Are you looking for an advisor, a committee member, a funded RAship, or just research experience? Please be up front about what you want to get out from the meeting. If needs be, please share your academic timeline.
-* Third, your research interest. What do you want to study and why do you think I might be a good person to work with? To answer these, you would need to watch the videos of my projects, and then read the papers that you consider particularly interesting. It'd be great if you can propose a solid research idea. If you don't have a clear idea, it's fine. Please state your area of interest instead, then I might suggest you a research question or invite you to work on an on-going project.
-
-If you have reached at this line, you are perhaps genuinely interested in working with me. I invite you to send me an email to ask for a meeting. You can look up [my free/busy schedule](/cal){:target="_blank"} to find a time slot that will work for both of us. If we luck out, we will work together to design, build, and test cool new interactive systems. If you have self-motivation, commitment, and passion for quality research, I will find resources to support your work and give you feedback to advance your practice.
-
-
-# Teaching
-
-## University of British Columbia
-
-CPSC 554Y: Topics in Human-Computer Interaction -- Multimodal Interaction  
-[Term 2 2017-18 (Jan - Apr)](https://docs.google.com/document/d/1tSZC1gqYy7rmWf7PoNEl-9yetlQj8vREhWomISCWwq0){:target="_blank"}
-
-## Cornell University
-
-CS 1110: Introduction to Computing Using Python (w/ Lillian Lee, Steve Marschner, and Walker White)  
-[Spring 2013](https://www.cs.cornell.edu/courses/cs1110/2013sp/){:target="_blank"}  · 
-[Spring 2014](https://www.cs.cornell.edu/courses/cs1110/2014sp/){:target="_blank"}  · 
-[Fall 2014](https://www.cs.cornell.edu/courses/cs1110/2014fa/){:target="_blank"} 
-
-
 # Projects
+
+## PhantomBook `Patent acquired by Samsung at $230k`
+{:class="project-title"}
+
+[![PhantomBook thumbnail](/files/thumbs/phantombook.jpg)](https://youtu.be/4KY40gAmeqA){:target="_blank"} | An augmented reality e-book interaction technique supports tangible interactions for page navigation. The patent (US9250443B2) was acquired by Samsung on Nov 28, 2017 at $230k. 
+{:class="project-item"}
+
 
 ## RichReview `CSCW 2016, UIST 2014`
 {:class="project-title"}
@@ -91,12 +64,37 @@ CS 1110: Introduction to Computing Using Python (w/ Lillian Lee, Steve Marschner
 {:class="project-item"}
 
 
-## PhantomBook `US Patent US9250443B2`
-{:class="project-title"}
+# Working with me
 
-[![PhantomBook thumbnail](/files/thumbs/phantombook.jpg)](https://youtu.be/4KY40gAmeqA){:target="_blank"} | An augmented reality e-book interaction technique supports tangible interactions for page navigation. The patent was acquired by Samsung on Nov 28, 2017 at $230k. 
-{:class="project-item"}
+I have openings for two graduate students to join my lab at MSc or PhD level for the 2018/19 academic year. If you are interested in *Multimodal Interaction, Educational Technology, and Virtual / Augmented Reality*, please apply!
 
+UBC students at any level (B.S., M.S., Ph.D.) are welcomed to contact me for potential advising and collaboration. Two graduate research assistantship or undergraduate research internship positions are currently available in my lab. Here is a detailed description about the ongoing projects:
+- [Ongoing research projects](https://docs.google.com/document/d/1iRUvK5wGmIZY7ZKeWg-XWW3P1w1qF5rfMQhnbw2IQ7Y){:target="_blank"}
+   
+
+I would expect that you, as a potential research collaborator, can understand the basic languages of HCI, software development, and statistics. No worries. It's OK not to be proficient at all the domains, but if you are inexperienced, please consider taking the introductory courses at UBC (e.g., [CPSC 344, 544](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/course-timetable){:target="_blank"}) or MOOCs. It will help you figure out what HCI is about and whether you really want to do HCI research.
+
+If you do contact me, please make sure to clarify the following three points.
+* First, who you are. I want to know which year and program you are in and what kind of skill set you have. If you want me as a committee member, please indicate your supervisor. Attaching your transcript, CV/resume, or portfolio is the easiest way to go. 
+* Second, what you need. Are you looking for an advisor, a committee member, a funded RAship, or just research experience? Please be up front about what you want to get out from the meeting. If needs be, please share your academic timeline.
+* Third, your research interest. What do you want to study and why do you think I might be a good person to work with? To answer these, you would need to watch the videos of my projects, and then read the papers that you consider particularly interesting. It'd be great if you can propose a solid research idea. If you don't have a clear idea, it's fine. Please state your area of interest instead, then I might suggest you a research question or invite you to work on an on-going project.
+
+If you have reached at this line, you are perhaps genuinely interested in working with me. I invite you to send me an email to ask for a meeting. You can look up [my free/busy schedule](/cal){:target="_blank"} to find a time slot that will work for both of us. If we luck out, we will work together to design, build, and test cool new interactive systems. If you have self-motivation, commitment, and passion for quality research, I will find resources to support your work and give you feedback to advance your practice.
+
+
+# Teaching
+
+## University of British Columbia
+
+CPSC 554Y: Topics in Human-Computer Interaction -- Multimodal Interaction  
+[Term 2 2017-18 (Jan - Apr)](https://docs.google.com/document/d/1tSZC1gqYy7rmWf7PoNEl-9yetlQj8vREhWomISCWwq0){:target="_blank"}
+
+## Cornell University
+
+CS 1110: Introduction to Computing Using Python (w/ Lillian Lee, Steve Marschner, and Walker White)  
+[Spring 2013](https://www.cs.cornell.edu/courses/cs1110/2013sp/){:target="_blank"}  · 
+[Spring 2014](https://www.cs.cornell.edu/courses/cs1110/2014sp/){:target="_blank"}  · 
+[Fall 2014](https://www.cs.cornell.edu/courses/cs1110/2014fa/){:target="_blank"} 
 
 
 # Refereed Publications
