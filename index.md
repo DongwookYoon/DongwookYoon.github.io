@@ -15,10 +15,10 @@ For further information about me, please look into my [curriculum vitæ](files/c
 
 # Projects
 
-## PhantomBook `Patent acquired by Samsung at $235k`
+## PhantomBook `US Patent US9250443B2`
 {:class="project-title"}
 
-[![PhantomBook thumbnail](/files/thumbs/phantombook.jpg)](https://youtu.be/4KY40gAmeqA){:target="_blank"} | An augmented reality e-book interaction technique supports tangible interactions for page navigation. The patent (US9250443B2) was acquired by Samsung on Nov 28, 2017 at $235k. 
+[![PhantomBook thumbnail](/files/thumbs/phantombook.jpg)](https://youtu.be/4KY40gAmeqA){:target="_blank"} | An augmented reality e-book interaction technique supports tangible interactions for page navigation.
 {:class="project-item"}
 
 
