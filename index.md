@@ -99,7 +99,7 @@ CS 1110: Introduction to Computing Using Python (w/ Lillian Lee, Steve Marschner
 
 # Refereed Publications
 
-[Facilitating Complex Referencing of Visual Materials in Asynchronous Discussion Interface](/#){:onclick="return false;"}  
+[Facilitating Complex Referencing of Visual Materials in Asynchronous Discussion Interface](/files/papers/cscw2018-korero.pdf){:target="_blank"}  
 Soon Hau Chua, Toni-Jan Keith Palma Monserrat, *Dongwook Yoon*, Juho Kim, and Shengdong Zhao  
 CSCW 2018 Full Paper · Conditionally Accepted
 
