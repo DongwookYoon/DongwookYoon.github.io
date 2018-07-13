@@ -1,8 +1,4 @@
-#Jekyll
-_site/
-.sass-cache/
-.jekyll-metadata
-
 #Webstorm
 .idea/
 .DS_Store
+.sass-cache
