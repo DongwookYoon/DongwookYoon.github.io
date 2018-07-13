@@ -1,0 +1,121 @@
+<body>
+    
+    <section id="about">
+        <div id="about-nav-panel">
+            <img src="files/etc/profile.jpg">
+            <nav>
+                <label>Jump to</label>
+                <l>
+                    <ul><a href="#projects"><i class="fa fa-caret-down"></i> Project</a></ul>
+                    <ul><a href="#work-with-me"><i class="fa fa-caret-down"></i> Work with me</a></ul>
+                    <ul><a href="#teaching"><i class="fa fa-caret-down"></i> Teaching</a></ul>
+                    <ul><a href="#publications"><i class="fa fa-caret-down"></i> Publications</a></ul>
+                </l>
+            </nav>
+        </div>
+        <div id="about-content">
+            <h1>Dongwook Yoon</h1>
+            <div>
+            <p>Assistant Professor</p>
+            <p>Computer Science</p>
+            <p>University of British Columbia</p>
+            </div>
+            <div>
+                <p><a href="http://dfp.psico.ca/" target="_blank">Design for People</a> · <a href="https://www.cs.ubc.ca/nest/imager/imager.php" target="_blank">IMAGER</a></p>
+            </div>
+            <div>
+                <p><a href="/files/etc/cv.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Curriculum Vitæ</a></p>
+                <p><a href="/cal" target="_blank"><i class="fa fa-calendar-check-o"></i> Free/Busy calendar</a></p>
+            </div>
+            <div>
+                <p>Office: X663, ICICS/CS [<a href="https://www.google.com/maps/place/UBC+Department+of+Computer+Science/@49.261052,-123.2489158,18.39z/data=!4m8!1m2!2m1!1sX663+ICICS%2FCS+UBC!3m4!1s0x0:0xab34e40e58012409!8m2!3d49.261178!4d-123.2488041" target="_blank"><i class="fa fa-map-marker"></i> Map</a>]</p>
+                <p>Phone: 604-822-5485</p>
+                <p>Snailmail: 201-2366 Main Mall, Vancouver, BC, V6T-1Z4 </p>
+            </div>
+        </div>
+        <h2>Brief Bio</h2>
+        <p>Dongwook Yoon is an Assistant Professor at the Department of Computer Science, University of British Columbia, and a member of IMAGER and Design for People. His research lies at the intersection of human-computer interaction (HCI), computer-supported cooperative work (CSCW), computer-mediated communication (CMC), augmented and virtual reality, and educational technology. He focuses on building rich collaboration systems that offer expressive multimodal interactions, i.e., interactions through multiple communication channels (e.g., speech, gesture, and grasp). His design approach translates natural human interactions into novel combinations of input modalities that serve as building blocks for fluid, rich, and lightweight interfaces. He deploys and evaluates high-fidelity systems in real world contexts (e.g., classrooms), from which we can obtain ecologically valid user data.</p>
+    </section>
+
+    <section id="work-with-me">
+        <h1>Work with me <a href="#about"><i class="fa fa-caret-up"></i></a></h1>
+        <p>
+            I have openings for two graduate students to join my lab at MSc or PhD level for the 2019/20 academic year. If you are interested in Multimodal Interaction, Educational Technology, and Virtual / Augmented Reality, please apply!
+        </p>
+
+        <p>
+             UBC students at any level (B.S., M.S., Ph.D.) are welcomed to contact me for potential advising and collaboration. Two graduate research assistantship or undergraduate research internship positions are currently available in my lab. Here is a detailed description about the ongoing projects:
+        </p>
+        <ul>
+            <li><a href="https://docs.google.com/document/d/1iRUvK5wGmIZY7ZKeWg-XWW3P1w1qF5rfMQhnbw2IQ7Y/edit" target="_blank">Ongoing research projects</a></li>
+        </ul>
+        <p>
+            I would expect that you, as a potential research collaborator, can understand the basic languages of HCI, software development, and statistics. No worries. It’s OK not to be proficient at all the domains, but if you are inexperienced, please consider taking the introductory courses at UBC (e.g., CPSC <a href="https://www.ugrad.cs.ubc.ca/~cs344/2018W1/" target="_blank">344</a>, <a href="https://blogs.ubc.ca/cpsc544/home/" target="_blank">544</a>) or MOOCs. It will help you figure out what HCI is about and whether you really want to do HCI research.
+        </p>
+        <p>
+            When contacting me, please make sure to clarify three points:
+        </p>
+
+        <ul>
+            <li>Who you are. I want to know which year and program you are in and what kind of skill set you have. If you want me as a committee member, please indicate your supervisor. Attaching your transcript, CV/resume, or portfolio is the easiest way to go.</li>
+            <li>What you need. Are you looking for an advisor, a committee member, a funded RAship, or just research experience? Please be up front about what you want to get out from the meeting. If needs be, please share your academic timeline.</li>
+            <li>Your research interest. What do you want to study and why do you think I might be a good person to work with? To answer these, you would need to watch the videos of my projects, and then read the papers that you consider particularly interesting. It’d be great if you can propose a solid research idea. If you don’t have a clear idea, it’s fine. Please state your area of interest instead, then I might suggest you a research question or invite you to work on an on-going project.</li>
+        </ul>
+        <p>
+            If you have reached this line, you are perhaps genuinely interested in working with me. I invite you to send me an email to ask for a meeting. You can look up my <a href="/cal" target="_blank">free/busy calendar</a> to find a time slot that will work for both of us. If we luck out, we will work together to design, build, and test cool new interactive systems. If you have self-motivation, commitment, and passion for quality research, I will find resources to support your work and give you feedback to advance your practice.
+        </p>
+    </section>
+
+    <section id="teaching">
+        <h1>Teaching <a href="#about"><i class="fa fa-caret-up"></i></a></h1>
+        {{#teaching}}
+        <h2>{{affiliation}}</h2>
+        {{#courses}}
+        <p class="name">{{name}}</p>
+        <p class="offerings">
+            {{#offerings}}
+            <a href="{{href}}" target="_blank">{{term}}</a>{{^last}} · {{/last}}
+            {{/offerings}}
+        </p>
+        {{/courses}}
+        {{/teaching}}
+    </section>
+
+    <section id="projects">
+        <h1>Projects <a href="#about"><i class="fa fa-caret-up"></i></a></h1>
+        {{#projects}}
+        <div class="project-item">
+            <img src="files/thumbs/{{img}}.jpg">
+            <div class="project-text">
+                <h2>{{title}}</h2>
+                <p>{{brief}}</p>
+                <p>
+                    {{#tags}}
+                        {{#video}}
+                        <a href="{{video}}" target="_blank"><label><a href="{{video}}" target="_blank"><i class="fa fa-youtube-play"></i> {{label}}</label></a>{{^last}} · {{/last}}
+                        {{/video}}
+                        {{^video}}
+                        <label>{{label}}</label>{{^last}} · {{/last}}
+                        {{/video}}
+                    {{/tags}}
+                </p>
+            </div>
+        </div>
+        {{/projects}}
+    </section>
+
+    <section id="publications">
+        <h1>Publications <a href="#about"><i class="fa fa-caret-up"></i></a></h1>
+        <ul>
+            {{#publications}}
+            <li>
+                <label>C{{no}}.&nbsp;</label>
+                <p class="title">{{title}}</p>
+                <p>{{authors}}</p>
+                <p>{{venue}} {{year}} · <a href="files/papers/{{pdf}}.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> {{type}}</a>{{#video}} · <a href="{{video}}" target="_blank"><i class="fa fa-youtube-play"></i> Video</a>{{/video}}</p>
+            </li>
+            {{/publications}}
+        </ul>
+    </section>
+<footer>© 2018 Dongwook Yoon. All rights reserved.</footer>
+</body>

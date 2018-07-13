@@ -1,0 +1,191 @@
+{
+  "publications": [
+    {
+      "authors": "Soon Hau Chua, Toni-Jan Keith Palma Monserrat, Dongwook Yoon, Juho Kim, and Shengdong Zhao",
+      "title": "Facilitating Complex Referencing of Visual Materials in Asynchronous Discussion Interface",
+      "year": "2018",
+      "venue": "CSCW",
+      "pdf": "cscw2018-korero",
+      "type": "Full Paper"
+    },
+    {
+      "authors": "Ian Arawjo, Dongwook Yoon, and François Guimbretière",
+      "title": "TypeTalker: A Speech Synthesis-Based Multimodal Commenting System",
+      "year": "2017",
+      "venue": "CSCW",
+      "pdf": "cscw2017-typetalker",
+      "type": "Full Paper",
+      "video": "https://www.youtube.com/watch?v=jKW6uQ2LIis&feature=youtu.be"
+    },
+    {
+      "authors": "Venkatesh Sivaraman, Dongwook Yoon, and Piotr Mitros",
+      "title": "SimpleSpeech: Simplified Audio Production in Asynchronous Voice-Based Discussions",
+      "year": "2016",
+      "venue": "CHI",
+      "pdf": "chi2016-simplespeech",
+      "type": "Full Paper",
+      "video": "https://www.youtube.com/watch?v=BoUpUY3scvk&feature=youtu.be"
+    },
+    {
+      "authors": "Dongwook Yoon, Nicholas Chen, Bernie Randles, Amy Cheatle, Steven Jackson, Corinna Loeckenhoff, Abigail Sellen, and François Guimbretière",
+      "title": "RichReview++: Deployment of a Collaborative Multimodal Annotation System for Instructor Feedback and Peer Discussion",
+      "year": "2016",
+      "venue": "CSCW",
+      "pdf": "cscw2016-richreviewpp",
+      "type": "Full Paper",
+      "video": "https://www.youtube.com/watch?v=xUeda4S2NLA&feature=youtu.be"
+    },
+    {
+      "authors": "Dongwook Yoon, Ken Hinckley, Hrvoje Benko, François Guimbretière, Pourang Irani, Michel Pahud, and Marcel Gavriliu",
+      "title": "Sensing Tablet Grasp + Micro-mobility for Active Reading",
+      "year": "2015",
+      "venue": "UIST",
+      "pdf": "uist2015-grasptablet",
+      "type": "Full Paper",
+      "video": "https://www.youtube.com/watch?v=mTSfoh-M88w"
+    },
+    {
+      "authors": "Dongwook Yoon, Nicholas Chen, François Guimbretière, and Abigail Sellen",
+      "title": "RichReview: blending ink, speech, and gesture to support collaborative document review",
+      "year": "2014",
+      "venue": "UIST",
+      "pdf": "uist2014-richreview",
+      "type": "Full Paper",
+      "video": "https://www.youtube.com/watch?v=twSTqxghHNQ"
+    },
+    {
+      "authors": "Dongwook Yoon, Nicholas Chen, and François Guimbretière",
+      "title": "TextTearing: opening white space for digital ink annotation",
+      "year": "2013",
+      "venue": "UIST",
+      "pdf": "uist2013-texttearing",
+      "type": "Short Paper",
+      "video": "https://www.youtube.com/watch?v=LSkR5-Cq4Dc"
+    },
+    {
+      "authors": "Dongwook Yoon, Joong Ho Lee, Kiwon Yeom, and Ji-Hyung Park",
+      "title": "Mobiature: 3d model manipulation technique for large displays using mobile devices",
+      "year": "2011",
+      "venue": "ICCE",
+      "pdf": "icce2012-mobiature",
+      "type": "Short Paper",
+      "video": "https://www.youtube.com/watch?v=BSbDmBLxKzE"
+    }
+  ],
+  "projects": [
+    {
+      "title": "PhantomBook",
+      "brief": "An augmented reality e-book interaction technique supports tangible interactions for page navigation.",
+      "tags": [
+        {"label":"Video", "video": "https://www.youtube.com/watch?v=4KY40gAmeqA&feature=youtu.be"},
+        {"label":"US Patent 9250443B2"}        
+      ],
+      "img": "phantombook"
+    },
+    {
+      "title": "RichReview",
+      "brief": "A multi-modal annotation system supports rich collaboration through voice + gesture expressions.",
+      "tags": [
+        {"label":"Video", "video": "https://www.youtube.com/watch?v=twSTqxghHNQ&feature=youtu.be"},
+        {"label":"CSCW 2016"}, {"label":"UIST 2014"}
+      ],
+      "img": "richreview"
+    },
+    {
+      "title": "SimpleSpeech",
+      "brief": "A transcription-based voice editing system reduces workloads in speech commenting.",
+      "tags": [
+        {"label":"Video", "video": "https://www.youtube.com/watch?v=BoUpUY3scvk&feature=youtu.be"},
+        {"label":"CHI 2016"}
+      ],
+      "img": "simplespeech"
+    },
+    {
+      "title": "Grasp + Micro-mobility",
+      "brief": "Employing capacitive grip sensing and inertial motion can capture contexts of collaborative interactions.",
+      "tags": [
+        {"label":"Video", "video": "https://www.youtube.com/watch?v=mTSfoh-M88w&feature=youtu.be"},
+        {"label":"UIST 2015"}
+      ],
+      "img": "grasptablet"
+    },
+    {
+      "title": "TextTearing",
+      "brief": "A pen + touch gesture expands writing space in a fluid document layout.",
+      "tags": [
+        {"label":"Video", "video": "https://www.youtube.com/watch?v=LSkR5-Cq4Dc&feature=youtu.be"},
+        {"label":"UIST 2013"}
+      ],
+      "img": "texttearing"
+    },
+    {
+      "title": "TouchBookmark",
+      "brief": "A multi-touch gesture supports nonlinear page navigation through a set of lightweight bookmarking interactions.",
+      "tags": [
+        {"label":"Video", "video": "https://www.youtube.com/watch?v=_4nII6Ah0Cg&feature=youtu.be"},
+        {"label":"CHI WIP 2013"}
+      ],  
+      "img": "touchbookmark"
+    },
+    {
+      "title": "Mobiature",
+      "brief": "Using the smartphone as a 3D controller supports direct manipulation of an on-screen virtual object.",
+      "tags": [
+        {"label":"Video", "video": "https://www.youtube.com/watch?v=BSbDmBLxKzE&feature=youtu.be"},
+        {"label":"ICCE 2012"}
+      ],
+      "img": "mobiature"
+    }
+  ],
+  "teaching": [
+    {
+      "affiliation": "University of British Columbia",
+      "courses":[
+        {
+          "name": "CPSC 344: Introduction to HCI Methods",
+          "offerings":[
+            {
+              "term": "Term 1 2018-19 (Sep - Dec)",
+              "href": "https://www.ugrad.cs.ubc.ca/~cs344/current-term/"
+            }
+          ]
+        },
+        {
+          "name": "CPSC 554Y: Topics in Human-Computer Interaction – Multimodal Interaction",
+          "offerings":[
+            {
+              "term": "Term 2 2017-18 (Jan - Apr)",
+              "href": "https://docs.google.com/document/d/e/2PACX-1vSc4ivM9go9JC-BNfKcy8p0O6VvJetNb9d0e3ISbxYXtRdtdhOGQjn9lcVrwhI2eC-pVxLD1CwqupNh/pub"
+            },
+            {
+              "term": "Term 2 2018-19 (Jan - Apr)",
+              "href": "https://docs.google.com/document/d/1u-n9e-fF0o3xaO_7rzsjAzC59RXFfCDJOwi_PHcJYXg/edit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "affiliation": "Cornell University",
+      "courses":[
+        {
+          "name": "CS 1110: Introduction to Computing Using Python (w/ Lillian Lee, Steve Marschner, and Walker White)",
+          "offerings":[
+            {
+              "term": "Spring 2013",
+              "href": "https://www.cs.cornell.edu/courses/cs1110/2013sp/"
+            },
+            {
+              "term": "Spring 2014",
+              "href": "https://www.cs.cornell.edu/courses/cs1110/2014sp/"
+            },
+            {
+              "term": "Fall 2014",
+              "href": "https://www.cs.cornell.edu/courses/cs1110/2014fa/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
