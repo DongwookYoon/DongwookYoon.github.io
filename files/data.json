@@ -2,11 +2,12 @@
   "publications": [
     {
       "authors": "Soon Hau Chua, Toni-Jan Keith Palma Monserrat, Dongwook Yoon, Juho Kim, and Shengdong Zhao",
-      "title": "Facilitating Complex Referencing of Visual Materials in Asynchronous Discussion Interface",
+      "title": "Korero: Facilitating Complex Referencing of Visual Materials in Asynchronous Discussion Interface",
       "year": "2018",
       "venue": "CSCW",
       "pdf": "cscw2018-korero",
-      "type": "Full Paper"
+      "type": "Full Paper",
+      "video": "https://youtu.be/Ye60HJ_wNGo"
     },
     {
       "authors": "Ian Arawjo, Dongwook Yoon, and François Guimbretière",
@@ -81,6 +82,15 @@
         {"label":"US Patent 9250443B2"}        
       ],
       "img": "phantombook"
+    },
+    {
+      "title": "Korero",
+      "brief": "Facilitating Complex Referencing of Visual Materials in Asynchronous Discussion Interface",
+      "tags": [
+        {"label":"Video", "video": "https://youtu.be/Ye60HJ_wNGo"},
+        {"label":"CSCW 2018"}
+      ],
+      "img": "korero"
     },
     {
       "title": "RichReview",
