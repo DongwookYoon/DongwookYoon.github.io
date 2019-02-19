@@ -1,6 +1,13 @@
 {
   "publications": [
     {
+      "authors": "Matin Yarmand, Dongwook Yoon, Samuel Dodson, Ido Roll, and Sidney S Fels",
+      "title": "\"Can you believe [1:21]?!\": Content and Time-Based Reference Patterns in Video Comments",
+      "year": "2019",
+      "venue": "CHI",
+      "type": "Full Paper (To Appear)"
+    },
+    {
       "authors": "Soon Hau Chua, Toni-Jan Keith Palma Monserrat, Dongwook Yoon, Juho Kim, and Shengdong Zhao",
       "title": "Korero: Facilitating Complex Referencing of Visual Materials in Asynchronous Discussion Interface",
       "year": "2018",
