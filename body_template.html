@@ -123,7 +123,12 @@
                 <label>C{{no}}.&nbsp;</label>
                 <p class="title">{{title}}</p>
                 <p>{{authors}}</p>
+                {{#pdf}}
                 <p>{{venue}} {{year}} · <a href="files/papers/{{pdf}}.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> {{type}}</a>{{#video}} · <a href="{{video}}" target="_blank"><i class="fa fa-youtube-play"></i> Video</a>{{/video}}</p>
+                {{/pdf}}
+                {{^pdf}}
+                <p>{{venue}} {{year}} · {{type}}</p>
+                {{/pdf}}
             </li>
             {{/publications}}
         </ul>
