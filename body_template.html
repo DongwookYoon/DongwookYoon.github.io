@@ -7,9 +7,9 @@
                 <label>Jump to</label>
                 <l>
                     <ul><a href="#work-with-me"><i class="fa fa-caret-down"></i> Work with me</a></ul>
-                    <ul><a href="#teaching"><i class="fa fa-caret-down"></i> Teaching</a></ul>
-                    <ul><a href="#projects"><i class="fa fa-caret-down"></i> Project</a></ul>
+                    <ul><a href="#projects"><i class="fa fa-caret-down"></i> Projects</a></ul>
                     <ul><a href="#publications"><i class="fa fa-caret-down"></i> Publications</a></ul>
+                    <ul><a href="#teaching"><i class="fa fa-caret-down"></i> Teaching</a></ul>
                 </l>
             </nav>
         </div>
@@ -42,9 +42,13 @@
         <h2>Current students</h2>
         <ul>
             <li>Anna Maria Offenwanger, MSc</li>
+            <li>Ashish Chopra, MSc</li>
             <li>Mohi Reza, MSc</li>
             <li>Taslim Arefin Khan, MSc</li>
             <li>Yelim Kim, MSc</li>
+            <li>Frances Sin, NSERC USRA (Summer 2019)</li>
+            <li>Janet Chen, NSERC USRA (Summer 2019)</li>
+            <li>Caitlin Coyiuto, Undergraduate RA (Spring 2019)</li>
             <li>Colin Chen, Undergraduate RA (Summer 2018)</li>
             <li>Kevin Chow, NSERC USRA (Summer 2018)</li>
             <li>Matin Yarmand, NSERC USRA (Summer 2018)</li>
@@ -77,21 +81,6 @@
         </p>
     </section>
 
-    <section id="teaching">
-        <h1>Teaching <a href="#about"><i class="fa fa-caret-up"></i></a></h1>
-        {{#teaching}}
-        <h2>{{affiliation}}</h2>
-        {{#courses}}
-        <p class="name">{{name}}</p>
-        <p class="offerings">
-            {{#offerings}}
-            <a href="{{href}}" target="_blank">{{term}}</a>{{^last}} · {{/last}}
-            {{/offerings}}
-        </p>
-        {{/courses}}
-        {{/teaching}}
-    </section>
-
     <section id="projects">
         <h1>Projects <a href="#about"><i class="fa fa-caret-up"></i></a></h1>
         {{#projects}}
@@ -120,18 +109,37 @@
         <ul>
             {{#publications}}
             <li>
-                <label>C{{no}}.&nbsp;</label>
+                <label class="pub-label">C{{no}}.&nbsp;</label>
                 <p class="title">{{title}}</p>
                 <p>{{authors}}</p>
+                <p>
                 {{#pdf}}
-                <p>{{venue}} {{year}} · <a href="files/papers/{{pdf}}.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> {{type}}</a>{{#video}} · <a href="{{video}}" target="_blank"><i class="fa fa-youtube-play"></i> Video</a>{{/video}}</p>
+                {{venue}} {{year}} · <a href="files/papers/{{pdf}}.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> {{type}}</a>{{#video}} · <a href="{{video}}" target="_blank"><i class="fa fa-youtube-play"></i> Video</a>{{/video}}
                 {{/pdf}}
                 {{^pdf}}
-                <p>{{venue}} {{year}} · {{type}}</p>
+                {{venue}} {{year}} · {{type}}
                 {{/pdf}}
+                {{#award}} · <label class="award">{{award}}</label>{{/award}}
+                </p>
+                
             </li>
             {{/publications}}
         </ul>
+    </section>
+
+    <section id="teaching">
+        <h1>Teaching <a href="#about"><i class="fa fa-caret-up"></i></a></h1>
+        {{#teaching}}
+        <h2>{{affiliation}}</h2>
+        {{#courses}}
+        <p class="name">{{name}}</p>
+        <p class="offerings">
+            {{#offerings}}
+            <a href="{{href}}" target="_blank">{{term}}</a>{{^last}} · {{/last}}
+            {{/offerings}}
+        </p>
+        {{/courses}}
+        {{/teaching}}
     </section>
 <footer>© 2018 Dongwook Yoon. All rights reserved.</footer>
 </body>

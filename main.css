@@ -28,6 +28,7 @@ nav ul{padding-left:0;margin:0;}
 #teaching .offerings {margin-top: 0;}
 #publications ul {list-style-type: none;padding-left: 28px;}
 #publications li {position:relative;margin-top:0.8em;}
-#publications label {position: absolute;left: -50px;width: 50px;text-align: right;}
+#publications .pub-label {position: absolute;left: -50px;width: 50px;text-align: right;}
+#publications .award {font-weight: bold;}
 #publications p {margin: 0;}
 #publications p.title {font-style:italic;}
