@@ -5,7 +5,9 @@
       "title": "\"Can you believe [1:21]?!\": Content and Time-Based Reference Patterns in Video Comments",
       "year": "2019",
       "venue": "CHI",
+      "pdf": "chi2019-videoreference",
       "type": "Full Paper (to appear)",
+      "video": "https://www.dropbox.com/s/382745w9vfpmjx8/Chi2019VideoSupplement.mp4?dl=0",
       "award": "Best of CHI: Honorable Mention Award"
     },
     {
@@ -90,11 +92,20 @@
   ],
   "projects": [
     {
+      "title": "Video Referencing",
+      "brief": "Typed hyperlinks that reference video content.",
+      "tags": [
+        {"label":"Video", "video": "https://www.dropbox.com/s/382745w9vfpmjx8/Chi2019VideoSupplement.mp4?dl=0"},
+        {"label":"CHI 2019"}
+      ],
+      "img": "videoreference"
+    },
+    {
       "title": "PhantomBook",
       "brief": "An augmented reality e-book interaction technique supports tangible interactions for page navigation.",
       "tags": [
         {"label":"Video", "video": "https://www.youtube.com/watch?v=4KY40gAmeqA&feature=youtu.be"},
-        {"label":"US Patent 9250443B2"}        
+        {"label":"US Patent 9250443B2"}
       ],
       "img": "phantombook"
     },
@@ -112,7 +123,7 @@
       "brief": "A multi-modal annotation system supports rich collaboration through voice + gesture expressions.",
       "tags": [
         {"label":"Video", "video": "https://www.youtube.com/watch?v=twSTqxghHNQ&feature=youtu.be"},
-        {"label":"CSCW 2016"}, {"label":"UIST 2014"}
+        {"label":"CSCW 2016"}, {"label":"UIST 2014"}, {"label": "US Patent 20150248388"}
       ],
       "img": "richreview"
     },
