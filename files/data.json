@@ -178,24 +178,41 @@
       "affiliation": "University of British Columbia",
       "courses":[
         {
-          "name": "CPSC 344: Introduction to HCI Methods",
+          "name": "CPSC 554K: Designing for People Project Course (Topics in Human-Computer Interaction)",
           "offerings":[
             {
-              "term": "Term 1 2018-19 (Sep - Dec)",
-              "href": "https://www.ugrad.cs.ubc.ca/~cs344/current-term/"
+              "term": "2019-20 WT2(Jan - Apr)",
+              "href": "https://docs.google.com/document/d/1ggTaqsXjZZsNs-OIBRshUfpOvugRaWa-vzNYNooxcyo/edit"
             }
           ]
         },
         {
-          "name": "CPSC 554Y: Topics in Human-Computer Interaction – Multimodal Interaction",
+          "name": "CPSC 554Y: Designing Novel Interaction Techniques (Topics in Human-Computer Interaction)",
           "offerings":[
             {
-              "term": "Term 2 2017-18 (Jan - Apr)",
-              "href": "https://docs.google.com/document/d/e/2PACX-1vSc4ivM9go9JC-BNfKcy8p0O6VvJetNb9d0e3ISbxYXtRdtdhOGQjn9lcVrwhI2eC-pVxLD1CwqupNh/pub"
+              "term": "2017-18 WT2 (Jan - Apr)",
+              "href": "https://docs.google.com/document/d/1tSZC1gqYy7rmWf7PoNEl-9yetlQj8vREhWomISCWwq0/preview"
             },
             {
-              "term": "Term 2 2018-19 (Jan - Apr)",
-              "href": "https://docs.google.com/document/d/1u-n9e-fF0o3xaO_7rzsjAzC59RXFfCDJOwi_PHcJYXg/edit"
+              "term": "2018-19 WT2(Jan - Apr)",
+              "href": "https://docs.google.com/document/d/1u-n9e-fF0o3xaO_7rzsjAzC59RXFfCDJOwi_PHcJYXg/preview"
+            },
+            {
+              "term": "2019-20 WT2(Jan - Apr)",
+              "href": "https://docs.google.com/document/d/1SASG2cKmRw0JIRbSqePRF7VnksK2aJXSgam2fK9DAWE/edit"
+            }
+          ]
+        },
+        {
+          "name": "CPSC 344: Introduction to HCI Methods",
+          "offerings":[
+            {
+              "term": "2018-19 WT1 (Sep - Dec)",
+              "href": "https://www.students.cs.ubc.ca/~cs-344/2018W1/"
+            },
+            {
+              "term": "2019-20 WT1 (Sep - Dec)",
+              "href": "https://www.students.cs.ubc.ca/~cs-344/2019W1/"
             }
           ]
         }
