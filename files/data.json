@@ -6,16 +6,25 @@
       "year": "2019",
       "venue": "CHI",
       "pdf": "chi2019-videoreference",
-      "type": "Full Paper (to appear)",
+      "type": "Full Paper",
       "video": "https://www.dropbox.com/s/382745w9vfpmjx8/Chi2019VideoSupplement.mp4?dl=0",
       "award": "Best of CHI: Honorable Mention Award"
+    },
+    {
+      "authors": "Samuel Dodson, Ido Roll, Negar M. Harandi, Sidney Fels, and Dongwook Yoon",
+      "title": "Weaving Together Media, Technologies, and People: Students' Information Practices in Flipped Classrooms",
+      "year": "2019",
+      "venue": "Information and Learning Sciences",
+      "type": "Full Paper",
+      "pdf": "ils2019-tapestry"
     },
     {
       "authors": "Matthew Fong, Samuel Dodson, Negar M Harandi, Kyoungwon Seo, Dongwook Yoon, and Sidney S Fels",
       "title": "Instructors Desire Student Activity, Literacy, and Video Quality Analytics to Improve Video-based Blended Courses",
       "year": "2019",
       "venue": "Learning at Scale",
-      "type": "Full Paper (to appear)"
+      "type": "Full Paper",
+      "pdf": "las2019-instructors"
     },
     {
       "authors": "Soon Hau Chua, Toni-Jan Keith Palma Monserrat, Dongwook Yoon, Juho Kim, and Shengdong Zhao",
@@ -160,7 +169,7 @@
       "tags": [
         {"label":"Video", "video": "https://www.youtube.com/watch?v=_4nII6Ah0Cg&feature=youtu.be"},
         {"label":"CHI WIP 2013"}
-      ],  
+      ],
       "img": "touchbookmark"
     },
     {
