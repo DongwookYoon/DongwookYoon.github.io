@@ -1,6 +1,15 @@
 {
   "publications": [
     {
+      "authors": "Kevin Chow, Caitlin Coyiuto, Cuong Nguyen, and Dongwook Yoon",
+      "title": "Challenges and Design Considerations for Multimodal Asynchronous Collaboration in VR\n",
+      "year": "2019",
+      "venue": "CSCW",
+      "pdf": "cscw2019-asyncvr",
+      "type": "Full Paper",
+      "video": "https://www.youtube.com/watch?v=v3dz4WwyyX8"
+    },
+    {
       "authors": "Matin Yarmand, Dongwook Yoon, Samuel Dodson, Ido Roll, and Sidney S Fels",
       "title": "\"Can you believe [1:21]?!\": Content and Time-Based Reference Patterns in Video Comments",
       "year": "2019",
@@ -100,6 +109,15 @@
     }
   ],
   "projects": [
+    {
+      "title": "Asynchronous VR Interactions",
+      "brief": "Multimodal asynchronous VR collaboration (MAVRC)",
+      "tags": [
+        {"label":"Video", "video": "https://www.youtube.com/watch?v=v3dz4WwyyX8"},
+        {"label":"CSCW 2019"}
+      ],
+      "img": "asyncvr"
+    },
     {
       "title": "Video Referencing",
       "brief": "Typed hyperlinks that reference video content.",
