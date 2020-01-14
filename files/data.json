@@ -1,6 +1,15 @@
 {
   "publications": [
     {
+      "authors": "Taslim Arefin Khan, Dongwook Yoon, and Joanna McGrenere",
+      "title": "Designing an Eyes-Reduced Document Skimming App for Situational Impairments",
+      "year": "2020",
+      "venue": "CHI",
+      "pdf": "chi2020-skimmer",
+      "type": "Full Paper",
+      "video": "https://www.dropbox.com/s/efhxwa4q2gnhily/chi20c-sub7161-cam-i19.mp4?dl=0"
+    },
+    {
       "authors": "Kevin Chow, Caitlin Coyiuto, Cuong Nguyen, and Dongwook Yoon",
       "title": "Challenges and Design Considerations for Multimodal Asynchronous Collaboration in VR",
       "year": "2019",
@@ -109,6 +118,15 @@
     }
   ],
   "projects": [
+    {
+      "title": "Skimmer",
+      "brief": "Eyes-Reduced Skimming for Situational Impairments",
+      "tags": [
+        {"label":"Video", "video": "https://www.dropbox.com/s/efhxwa4q2gnhily/chi20c-sub7161-cam-i19.mp4?dl=0"},
+        {"label":"CHI 2020"}
+      ],
+      "img": "skimmer"
+    },
     {
       "title": "Asynchronous VR Interactions",
       "brief": "Multimodal asynchronous VR collaboration (MAVRC)",
