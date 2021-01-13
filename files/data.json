@@ -144,6 +144,15 @@
   ],
   "projects": [
     {
+      "title": "CAST",
+      "brief": "Computer-Assisted Shadowing Trainer",
+      "tags": [
+        {"label":"Video", "video": "https://youtu.be/pwOZzskukAU"},
+        {"label":"CHI 2021"}
+      ],
+      "img": "cast"
+    },
+    {
       "title": "Skimmer",
       "brief": "Eyes-Reduced Skimming for Situational Impairments",
       "tags": [
