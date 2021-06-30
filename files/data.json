@@ -1,6 +1,20 @@
 {
   "publications": [
     {
+      "authors": "Ashish Chopra, Morgan Mo, Samuel Dodson, Ivan Beschastnikh, Sidney Fels, and Dongwook Yoon",
+      "title": "\"@alex, this fixes #9\": Analysis of Referencing Patterns in Pull Request Discussions",
+      "year": "2021",
+      "venue": "CSCW",
+      "type": "Full Paper (conditionally accepted)"
+    },
+    {
+      "authors": "Frances Sin, Sophie Berger, Ig-Jae Kim, and Dongwook Yoon",
+      "title": "Digital Social Interaction in Older Adults During the COVID-19 Pandemic",
+      "year": "2021",
+      "venue": "CSCW",
+      "type": "Full Paper (conditionally accepted)"
+    },
+    {
       "authors": "Anna Offenwanger, Alan John Milligan, Minuk Chang, Julia Bullard, and Dongwook Yoon",
       "title": "Diagnosing Bias in the Gender Representation of HCI Research Participants: How it Happens and Where We Are?",
       "year": "2021",
