@@ -1,6 +1,23 @@
 {
   "publications": [
     {
+      "authors": "Kyoungwon Seo, Joice Tang, Ido Roll, Sidney Fels, Dongwook Yoon",
+      "title": " The impact of artificial intelligence on learner–instructor interaction in online learning",
+      "year": "2021",
+      "venue": "International Journal of Educational Technology in Higher Education",
+      "pdf":"ethe2021-ailearning",
+      "type": "Journal Paper"
+    },
+    {
+      "authors": "Enrique Rosales, Chrystiano Araujo, Jafet Rodriguez, Nicholas Vining, Dongwook Yoon, and Alla Sheffer",
+      "title": "AdaptiBrush: Adaptive General and Predictable VR Ribbon Brush\n",
+      "year": "2021",
+      "venue": "ACM Transactions on Graphics (TOG, SIGGRAPH Asia)",
+      "pdf": "sigasia2021-adaptibrush",
+      "type": "Full Paper",
+      "video": "https://youtu.be/tTE8OymgW04"
+    },
+    {
       "authors": "Ashish Chopra, Morgan Mo, Samuel Dodson, Ivan Beschastnikh, Sidney Fels, and Dongwook Yoon",
       "title": "\"@alex, this fixes #9\": Analysis of Referencing Patterns in Pull Request Discussions",
       "year": "2021",
