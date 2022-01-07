@@ -1,8 +1,16 @@
 {
   "publications": [
     {
+      "authors": "Ranjitha Jaddigadde Srinivasa, Samuel Dodson, Kyoungwon Seo, Dongwook Yoon, and Sidney Fels",
+      "title": "NoteLink: A Point-and-Shoot Linking Interface between Students' Handwritten Notebooks and Instructional Videos",
+      "year": "2021",
+      "venue": "ACM/IEEE Joint Conference on Digital Libraries (JCDL)",
+      "pdf":"jcdl2021-notelink",
+      "type": "Full Paper"
+    },
+    {
       "authors": "Kyoungwon Seo, Joice Tang, Ido Roll, Sidney Fels, and Dongwook Yoon",
-      "title": " The impact of artificial intelligence on learner–instructor interaction in online learning",
+      "title": "The impact of artificial intelligence on learner–instructor interaction in online learning",
       "year": "2021",
       "venue": "International Journal of Educational Technology in Higher Education",
       "pdf":"ethe2021-ailearning",
