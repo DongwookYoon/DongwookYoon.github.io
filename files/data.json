@@ -1,11 +1,18 @@
 {
   "publications": [
     {
+      "authors": "Oloff C. Biermann, Ning F. Ma, and Dongwook Yoon",
+      "title": "From Tool to Companion: Storywriters Want AI Writers to Respect Their Personal Values and Writing Strategies",
+      "year": "2022",
+      "venue": "DIS",
+      "type": "Full Paper (To Appear)"
+    },
+    {
       "authors": "Ning F. Ma, Veronica Rivera, Zheng Yao, and Dongwook Yoon",
       "title": "\"Brush it Off\": How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms",
       "year": "2022",
       "venue": "CHI",
-      "type": "Full Paper"
+      "type": "Full Paper (To Appear)"
     },
     {
       "authors": "Ranjitha Jaddigadde Srinivasa, Samuel Dodson, Kyoungwon Seo, Dongwook Yoon, and Sidney Fels",
@@ -306,11 +313,15 @@
       "affiliation": "University of British Columbia",
       "courses":[
         {
-          "name": "CPSC 554K: Designing for People Project Course (Topics in Human-Computer Interaction)",
+          "name": "CPSC 554Y: Designing Augmented and Virtual Reality Experiences (Topics in Human-Computer Interaction)",
           "offerings":[
             {
-              "term": "2019-20 WT2(Jan - Apr)",
-              "href": "https://docs.google.com/document/d/1ggTaqsXjZZsNs-OIBRshUfpOvugRaWa-vzNYNooxcyo/edit"
+              "term": "2021-22 WT2(Jan - Apr)",
+              "href": "https://docs.google.com/document/d/1DzvAUrgr3lTbBAakvg8SbOv1byP55rB1dq2yoROxTTg/preview"
+            },
+            {
+              "term": "2020-21 WT2(Jan - Apr)",
+              "href": "https://docs.google.com/document/d/1u-n9e-fF0o3xaO_7rzsjAzC59RXFfCDJOwi_PHcJYXg/preview"
             }
           ]
         },
@@ -318,16 +329,25 @@
           "name": "CPSC 554Y: Designing Novel Interaction Techniques (Topics in Human-Computer Interaction)",
           "offerings":[
             {
-              "term": "2017-18 WT2 (Jan - Apr)",
-              "href": "https://docs.google.com/document/d/1tSZC1gqYy7rmWf7PoNEl-9yetlQj8vREhWomISCWwq0/preview"
+              "term": "2019-20 WT2(Jan - Apr)",
+              "href": "https://docs.google.com/document/d/1SASG2cKmRw0JIRbSqePRF7VnksK2aJXSgam2fK9DAWE/edit"
             },
             {
               "term": "2018-19 WT2(Jan - Apr)",
               "href": "https://docs.google.com/document/d/1u-n9e-fF0o3xaO_7rzsjAzC59RXFfCDJOwi_PHcJYXg/preview"
             },
             {
+              "term": "2017-18 WT2 (Jan - Apr)",
+              "href": "https://docs.google.com/document/d/1tSZC1gqYy7rmWf7PoNEl-9yetlQj8vREhWomISCWwq0/preview"
+            }
+          ]
+        },
+        {
+          "name": "CPSC 554K: Designing for People Project Course (Topics in Human-Computer Interaction)",
+          "offerings":[
+            {
               "term": "2019-20 WT2(Jan - Apr)",
-              "href": "https://docs.google.com/document/d/1SASG2cKmRw0JIRbSqePRF7VnksK2aJXSgam2fK9DAWE/edit"
+              "href": "https://docs.google.com/document/d/1ggTaqsXjZZsNs-OIBRshUfpOvugRaWa-vzNYNooxcyo/preview"
             }
           ]
         },
@@ -335,12 +355,20 @@
           "name": "CPSC 344: Introduction to HCI Methods",
           "offerings":[
             {
-              "term": "2018-19 WT1 (Sep - Dec)",
-              "href": "https://www.students.cs.ubc.ca/~cs-344/2018W1/"
+              "term": "2021-22 WT1 (Sep - Dec)",
+              "href": "https://www.students.cs.ubc.ca/~cs-344/2021W1/"
+            },
+            {
+              "term": "2020-21 WT1 (Sep - Dec)",
+              "href": "https://www.students.cs.ubc.ca/~cs-344/2020W1/"
             },
             {
               "term": "2019-20 WT1 (Sep - Dec)",
               "href": "https://www.students.cs.ubc.ca/~cs-344/2019W1/"
+            },
+            {
+              "term": "2018-19 WT1 (Sep - Dec)",
+              "href": "https://www.students.cs.ubc.ca/~cs-344/2018W1/"
             }
           ]
         }
