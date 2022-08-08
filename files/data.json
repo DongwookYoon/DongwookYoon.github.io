@@ -319,11 +319,15 @@
           "name": "CPSC 554Y: Designing Augmented and Virtual Reality Experiences (Topics in Human-Computer Interaction)",
           "offerings":[
             {
-              "term": "2021-22 WT2(Jan - Apr)",
+              "term": "2023 Spring (Jan - Apr)",
+              "href": "https://docs.google.com/document/d/1vI0BqMA2n5EBVFnvRWMhzKEG1HSqdShZ4mKLRtX03PM/preview"
+            },
+            {
+              "term": "2022 Spring (Jan - Apr)",
               "href": "https://docs.google.com/document/d/1DzvAUrgr3lTbBAakvg8SbOv1byP55rB1dq2yoROxTTg/preview"
             },
             {
-              "term": "2020-21 WT2(Jan - Apr)",
+              "term": "2021 Spring (Jan - Apr)",
               "href": "https://docs.google.com/document/d/1u-n9e-fF0o3xaO_7rzsjAzC59RXFfCDJOwi_PHcJYXg/preview"
             }
           ]
@@ -332,15 +336,15 @@
           "name": "CPSC 554Y: Designing Novel Interaction Techniques (Topics in Human-Computer Interaction)",
           "offerings":[
             {
-              "term": "2019-20 WT2(Jan - Apr)",
+              "term": "2020 Spring (Jan - Apr)",
               "href": "https://docs.google.com/document/d/1SASG2cKmRw0JIRbSqePRF7VnksK2aJXSgam2fK9DAWE/edit"
             },
             {
-              "term": "2018-19 WT2(Jan - Apr)",
+              "term": "2019 Spring (Jan - Apr)",
               "href": "https://docs.google.com/document/d/1u-n9e-fF0o3xaO_7rzsjAzC59RXFfCDJOwi_PHcJYXg/preview"
             },
             {
-              "term": "2017-18 WT2 (Jan - Apr)",
+              "term": "2018 Spring  (Jan - Apr)",
               "href": "https://docs.google.com/document/d/1tSZC1gqYy7rmWf7PoNEl-9yetlQj8vREhWomISCWwq0/preview"
             }
           ]
@@ -349,7 +353,7 @@
           "name": "CPSC 554K: Designing for People Project Course (Topics in Human-Computer Interaction)",
           "offerings":[
             {
-              "term": "2019-20 WT2(Jan - Apr)",
+              "term": "2020 Spring (Jan - Apr)",
               "href": "https://docs.google.com/document/d/1ggTaqsXjZZsNs-OIBRshUfpOvugRaWa-vzNYNooxcyo/preview"
             }
           ]
@@ -358,19 +362,23 @@
           "name": "CPSC 344: Introduction to HCI Methods",
           "offerings":[
             {
-              "term": "2021-22 WT1 (Sep - Dec)",
+              "term": "2023 Spring (Jan - Apr)",
+              "href": "https://www.students.cs.ubc.ca/~cs-344/2022WT/"
+            },
+            {
+              "term": "2021 Fall (Sep - Dec)",
               "href": "https://www.students.cs.ubc.ca/~cs-344/2021W1/"
             },
             {
-              "term": "2020-21 WT1 (Sep - Dec)",
+              "term": "2020 Fall (Sep - Dec)",
               "href": "https://www.students.cs.ubc.ca/~cs-344/2020W1/"
             },
             {
-              "term": "2019-20 WT1 (Sep - Dec)",
+              "term": "2019 Fall (Sep - Dec)",
               "href": "https://www.students.cs.ubc.ca/~cs-344/2019W1/"
             },
             {
-              "term": "2018-19 WT1 (Sep - Dec)",
+              "term": "2018 Fall (Sep - Dec)",
               "href": "https://www.students.cs.ubc.ca/~cs-344/2018W1/"
             }
           ]
