@@ -1,6 +1,13 @@
 {
   "publications": [
     {
+      "authors": "Thitaree (Mint) Tanprasert, Sidney Fels, Luanne Sinnamon, Dongwook Yoon",
+      "title": "Observing Agent Conversations\nIncreases Student Engagement: A VIVID Framework",
+      "year": "2023",
+      "venue": "CHI",
+      "type": "Full Paper"
+    },
+    {
       "authors": "Patrick Lee, Ning F. Ma, Ig-Jae Kim, and Dongwook Yoon",
       "title": "Speculating on Risks of AI Clones to Selfhood and Relationships: Doppelganger-phobia, Identity Fragmentation, and Living Memories",
       "year": "2023",
