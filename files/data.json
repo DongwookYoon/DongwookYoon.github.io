@@ -2,9 +2,10 @@
   "publications": [
     {
       "authors": "Thitaree (Mint) Tanprasert, Sidney Fels, Luanne Sinnamon, Dongwook Yoon",
-      "title": "Observing Agent Conversations\nIncreases Student Engagement: A VIVID Framework",
+      "title": "Scripted Vicarious Dialogues: Educational Video Augmentation Method for Increasing Isolated Students' Engagement",
       "year": "2023",
       "venue": "CHI",
+      "pdf": "chi2023-svd",
       "type": "Full Paper"
     },
     {
