@@ -2,11 +2,20 @@
 
   "publications": [
     {
+      "authors": "Niu Chen, Frances Sin, Laura Herman, Cuong Nguyen, Ivan Song, and Dongwook Yoon",
+      "title": "Using Online Videos as the Basis for Developing Design Guidelines: A Case Study of AR-Based Assembly Instructions",
+      "year": "2023",
+      "venue": "PACMHCI (ISS)",
+      "type": "Full Paper",
+      "pdf": "iss2023-guidelines"
+    },
+    {
       "authors": "Anika Sayara, Emily Lynn Chen, Cuong Nguyen, Robert Xiao, and Dongwook Yoon",
       "title": "GestureCanvas: A Programming by Demonstration System for Prototyping Compound Freehand Interaction in VR",
       "year": "2023",
       "venue": "UIST",
-      "type": "Full Paper"
+      "type": "Full Paper",
+      "pdf": "uist2023-gesturecanvas"
     },
     {
       "authors": "Thitaree (Mint) Tanprasert, Sidney Fels, Luanne Sinnamon, and Dongwook Yoon",
@@ -20,7 +29,7 @@
       "authors": "Patrick Lee, Ning F. Ma, Ig-Jae Kim, and Dongwook Yoon",
       "title": "Speculating on Risks of AI Clones to Selfhood and Relationships: Doppelganger-phobia, Identity Fragmentation, and Living Memories",
       "year": "2023",
-      "venue": "CSCW",
+      "venue": "PACMHCI (CSCW)",
       "pdf": "cscw2023-aiclone",
       "type": "Full Paper"
     },
@@ -70,7 +79,7 @@
       "authors": "Ashish Chopra, Morgan Mo, Samuel Dodson, Ivan Beschastnikh, Sidney Fels, and Dongwook Yoon",
       "title": "\"@alex, this fixes #9\": Analysis of Referencing Patterns in Pull Request Discussions",
       "year": "2021",
-      "venue": "CSCW",
+      "venue": "PACMHCI (CSCW)",
       "pdf": "cscw2021-pr",
       "type": "Full Paper",
       "award": "Impact Recognition"
@@ -79,7 +88,7 @@
       "authors": "Frances Sin, Sophie Berger, Ig-Jae Kim, and Dongwook Yoon",
       "title": "Digital Social Interaction in Older Adults During the COVID-19 Pandemic",
       "year": "2021",
-      "venue": "CSCW",
+      "venue": "PACMHCI (CSCW)",
       "pdf": "cscw2021-covid19",
       "type": "Full Paper"
     },
@@ -121,7 +130,7 @@
       "authors": "Kevin Chow, Caitlin Coyiuto, Cuong Nguyen, and Dongwook Yoon",
       "title": "Challenges and Design Considerations for Multimodal Asynchronous Collaboration in VR",
       "year": "2019",
-      "venue": "CSCW",
+      "venue": "PACMHCI (CSCW)",
       "pdf": "cscw2019-asyncvr",
       "type": "Full Paper",
       "video": "https://www.youtube.com/watch?v=v3dz4WwyyX8"
@@ -156,7 +165,7 @@
       "authors": "Soon Hau Chua, Toni-Jan Keith Palma Monserrat, Dongwook Yoon, Juho Kim, and Shengdong Zhao",
       "title": "Korero: Facilitating Complex Referencing of Visual Materials in Asynchronous Discussion Interface",
       "year": "2018",
-      "venue": "CSCW",
+      "venue": "PACMHCI (CSCW)",
       "pdf": "cscw2018-korero",
       "type": "Full Paper",
       "video": "https://youtu.be/Ye60HJ_wNGo"
