@@ -2,6 +2,41 @@
 
   "publications": [
     {
+      "authors": "Jonathan Chen and Dongwook Yoon",
+      "title": "Exploring the Diminishing Allure of Paper and Low-Fidelity Prototyping Among Designers in the Software Industry: Impacts of Hybrid Work, Digital Tools, and Corporate Culture",
+      "year": "2024",
+      "venue": "CHI",
+      "type": "Full Paper (conditionally accepted)"
+    },
+    {
+      "authors": "Chenxinran Shen, Joanna McGrenere, and Dongwook Yoon",
+      "title": "LegacySphere: Facilitating Intergenerational Communication Through Perspective-Taking and Storytelling in Embodied VR",
+      "year": "2024",
+      "venue": "CHI",
+      "type": "Full Paper (conditionally accepted)"
+    },
+    {
+      "authors": "Thitaree (Mint) Tanprasert, Sidney Fels, Luanne Sinnamon, and Dongwook Yoon",
+      "title": "Bursting the YouTube Filter Bubble: Investigating the Effect of Post-Video Debate Chatbot’s Personas on Critical Thinking",
+      "year": "2024",
+      "venue": "CHI",
+      "type": "Full Paper (conditionally accepted)"
+    },
+    {
+      "authors": "Sahar Mavali, Dongwook Yoon, Luanne Sinnamon, and Sidney Fels",
+      "title": "Time-Turner: A Bichronous Learning Environment to Support Positive In-class Multitasking of Online Learners",
+      "year": "2024",
+      "venue": "CHI",
+      "type": "Full Paper (conditionally accepted)"
+    },
+    {
+      "authors": "Jessica Huang, Ning Ma, Veronica Rivera, Tabreek Somani, Patrick Lee, Joanna McGrenere, and Dongwook Yoon",
+      "title": "Design Tensions in Online Freelancing Platforms: Using Speculative Participatory Design to Support Freelancers' Relationships with Clients",
+      "year": "2024",
+      "venue": "PACMHCI (CSCW)",
+      "type": "Full Paper"
+    },
+    {
       "authors": "Niu Chen, Frances Sin, Laura Herman, Cuong Nguyen, Ivan Song, and Dongwook Yoon",
       "title": "Using Online Videos as the Basis for Developing Design Guidelines: A Case Study of AR-Based Assembly Instructions",
       "year": "2023",
