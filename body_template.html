@@ -6,7 +6,6 @@
             <nav>
                 <label>Jump to</label>
                 <l>
-                    <ul><a href="#projects"><i class="fa fa-caret-down"></i> Projects</a></ul>
                     <ul><a href="#publications"><i class="fa fa-caret-down"></i> Publications</a></ul>
                     <ul><a href="#work-with-me"><i class="fa fa-caret-down"></i> Work with me</a></ul>
                     <ul><a href="#teaching"><i class="fa fa-caret-down"></i> Teaching</a></ul>
@@ -43,29 +42,6 @@
             <a href="https://research.adobe.com/" target="_blank">Adobe</a>,
             <a href="https://www.huawei.com/en/" target="_blank">Huawei</a>, and
             <a href="https://www.microsoft.com" target="_blank">Microsoft</a>.</p>
-    </section>
-
-    <section id="projects">
-        <h1>Projects <a href="#about"><i class="fa fa-caret-up"></i></a></h1>
-        {{#projects}}
-        <div class="project-item">
-            <img src="files/thumbs/{{img}}.jpg">
-            <div class="project-text">
-                <h2>{{title}}</h2>
-                <p>{{brief}}</p>
-                <p>
-                    {{#tags}}
-                        {{#video}}
-                        <a href="{{video}}" target="_blank"><label><a href="{{video}}" target="_blank"><i class="fa fa-youtube-play"></i> {{label}}</label></a>{{^last}} · {{/last}}
-                        {{/video}}
-                        {{^video}}
-                        <label>{{label}}</label>{{^last}} · {{/last}}
-                        {{/video}}
-                    {{/tags}}
-                </p>
-            </div>
-        </div>
-        {{/projects}}
     </section>
 
     <section id="publications">
