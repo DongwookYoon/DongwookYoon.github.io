@@ -7,7 +7,8 @@
       "year": "2024",
       "venue": "CHI",
       "type": "Full Paper",
-      "pdf": "chi2024-debatechatbots"
+      "pdf": "chi2024-debatechatbots",
+      "award": "Best Paper Award"
     },
     {
       "authors": "Jonathan Chen and Dongwook Yoon",
@@ -31,7 +32,8 @@
       "year": "2024",
       "venue": "CHI",
       "type": "Full Paper",
-      "pdf": "chi2024-timeturner"
+      "pdf": "chi2024-timeturner",
+      "award": "Best Paper Award"
     },
     {
       "authors": "Jessica Huang, Ning Ma, Veronica Rivera, Tabreek Somani, Patrick Lee, Joanna McGrenere, and Dongwook Yoon",
