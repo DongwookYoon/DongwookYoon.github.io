@@ -2,8 +2,29 @@
 
   "publications": [
     {
+      "authors": "Amit Ghimire, Anova Hou, Ig-Jae Kim, and Dongwook Yoon",
+      "title": "AvatARoid: A Motion-Mapped AR Overlay to Bridge the Embodiment Gap Between Robots and Teleoperators in Robot-Mediated Telepresence",
+      "year": "2025",
+      "venue": "CHI",
+      "type": "Full Paper"
+    },
+    {
+      "authors": "Jessica Huang, Ig-Jae Kim, and Dongwook Yoon",
+      "title": "From Mirror to Companion: Exploring Roles, Values, and Risks of AI Self-Clones through Story Completion",
+      "year": "2025",
+      "venue": "CHI",
+      "type": "Full Paper"
+    },
+    {
+      "authors": "Ruijing Zhao, Brian Diep, Jiaxin Pei, Dongwook Yoon, David Jurgens, and Jian Zhu",
+      "title": "Who Reaps All the Superchats? A Large-Scale Analysis of Income Inequality in Virtual YouTuber Livestreaming",
+      "year": "2025",
+      "venue": "CHI",
+      "type": "Full Paper"
+    },
+    {
       "authors": "Thitaree (Mint) Tanprasert, Sidney Fels, Luanne Sinnamon, and Dongwook Yoon",
-      "title": "Debate Chatbots to Facilitate Critical Thinking on YouTube: Social Identity and Conversational Style Make A Difference ",
+      "title": "Debate Chatbots to Facilitate Critical Thinking on YouTube: Social Identity and Conversational Style Make A Difference",
       "year": "2024",
       "venue": "CHI",
       "type": "Full Paper",
