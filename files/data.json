@@ -68,6 +68,22 @@
       "pdf": "cscw2024-gigdesigntension"
     },
     {
+      "authors": "Cleidson de Souza, Emilie Ma, Jesse Wong, Dongwook Yoon, and Ivan Beschastnikh",
+      "title": "Revealing Software Development Work Patterns with PR-Issue Graph Topologies",
+      "year": "2024",
+      "venue": "Software Engineering",
+      "type": "Full Paper",
+      "pdf": "fse2024-prgraph"
+    },
+    {
+      "authors": "Cleidson de Souza, Gema Rodríguez-Pérez, Manaal Basha, Dongwook Yoon, and Ivan Beschastnikh",
+      "title": "The Fine Balance Between Helping With Your Job and Taking It: AI Code Assistants Come to the Fore",
+      "year": "2024",
+      "venue": "IEEE Software",
+      "type": "Magazine Article",
+      "pdf": "software24-aicoding"
+    },
+    {
       "authors": "Niu Chen, Frances Sin, Laura Herman, Cuong Nguyen, Ivan Song, and Dongwook Yoon",
       "title": "Using Online Videos as the Basis for Developing Design Guidelines: A Case Study of AR-Based Assembly Instructions",
       "year": "2023",
