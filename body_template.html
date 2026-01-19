@@ -48,26 +48,7 @@
     </section>
 
     <section id="publications">
-        <h1>Publications <a href="#about"><i class="fa fa-caret-up"></i></a></h1>
-        <ul>
-            {{#publications}}
-            <li>
-                <label class="pub-label">P{{no}}.&nbsp;</label>
-                <p class="title">{{title}}</p>
-                <p>{{authors}}</p>
-                <p>
-                {{#pdf}}
-                {{venue}} {{year}} · <a href="files/papers/{{pdf}}.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> {{type}}</a>{{#video}} · <a href="{{video}}" target="_blank"><i class="fa fa-youtube-play"></i> Video</a>{{/video}}
-                {{/pdf}}
-                {{^pdf}}
-                {{venue}} {{year}} · {{type}}
-                {{/pdf}}
-                {{#award}} · <label class="award">{{award}}</label>{{/award}}
-                </p>
-
-            </li>
-            {{/publications}}
-        </ul>
+        <p>Please check <a href="https://www.cs.ubc.ca/labs/socius/publications.html" target="_blank">the SOCIUS lab publications page</a>.</p>
     </section>
 
     <section id="work-with-me">
